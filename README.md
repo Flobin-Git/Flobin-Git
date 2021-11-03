@@ -2,24 +2,22 @@
 
 <h3 align="center">A youn front end Developer and Designer from Belgium</h3>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Flobin-Git alt=Flobin-Git/> </p>
 <p align="left"> <a href="https://twitter.com/flobin_" target="blank"><img src="https://img.shields.io/twitter/follow/flobin_?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
 
-- 🔭 I’m currently working on [india-vaccine-frontend](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
+- 🔭 I’m currently working on my own Website
 
-- 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
+- 🤔 I’m looking for help with CSS
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- 💬 Ask me about **Tipps**
 
-- 💬 Ask me about **react, vue and gsap**
+- 📫 Reach me at **flobin.design@gmail.com**
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+- 👨‍💻 All of my projects are available at [Flobin-Git](https://Flobin-Git.github.io)
 
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+- ⚡ Fun fact **I like Cats and**
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
-
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
