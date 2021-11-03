@@ -29,10 +29,10 @@
 
 **📕 Latest projects [@flobin](https://github.com/Flobin-Git)**
 <!-- BLOG-POST-LIST:START -->
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
+- [My Website](https://flobin.tk)
+- [My Website](https://flobin.tk)
+- [My Website](https://flobin.tk)
+- [My Website](https://flobin.tk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
