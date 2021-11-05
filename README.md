@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Flobin-Git](https://Flobin-Git.github.io)
 
-- ⚡ Fun fact **I like Cats and**
+- ⚡ Fun fact **I like Cats and Coffee**
 
 
 <h3 align="left">Connect with me:</h3>
