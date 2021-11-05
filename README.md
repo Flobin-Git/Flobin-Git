@@ -3,9 +3,8 @@
 <h3 align="center">A youn front end Developer and Designer from Belgium</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Flobin-Git alt=Flobin-Git/> </p>
-<p align="left"> <a href="https://twitter.com/flobin_" target="blank"><img src="https://img.shields.io/twitter/follow/flobin_?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/flobin_" target="blank"><img src="https://img.shields.io/twitter/follow/flobin_?logo=twitter&style=for-the-badge" alt="flobin_" /></a> </p>
 
-**My own VScode Theme: [Link](https://marketplace.visualstudio.com/items?itemName=Flobin.flobins-theme)**
 
 - 🔭 I’m currently working on my own Website
 
@@ -31,6 +30,7 @@
 **📕 Latest projects [@flobin](https://github.com/Flobin-Git)**
 <!-- BLOG-POST-LIST:START -->
 - [My Website](https://flobin.tk)
+- [My own VScode Theme](https://marketplace.visualstudio.com/items?itemName=Flobin.flobins-theme)**
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
