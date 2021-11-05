@@ -30,7 +30,7 @@
 **📕 Latest projects [@flobin](https://github.com/Flobin-Git)**
 <!-- BLOG-POST-LIST:START -->
 - [My Website](https://flobin.tk)
-- [My own VScode Theme](https://marketplace.visualstudio.com/items?itemName=Flobin.flobins-theme)**
+- [My own VScode Theme](https://marketplace.visualstudio.com/items?itemName=Flobin.flobins-theme)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
