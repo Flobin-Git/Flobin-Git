@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Flobin</h1>
+<h1 align="center">Hi 👋, I'm Robin</h1>
 
 <h3 align="center">A youn front end Developer and Designer from Belgium</h3>
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Tipps**
 
-- 📫 Reach me at **flobin.design@gmail.com**
+- 📫 Reach me at **robin_ahn@icloud.com**
 
 - 👨‍💻 All of my projects are available at [Flobin-Git](https://Flobin-Git.github.io)
 
