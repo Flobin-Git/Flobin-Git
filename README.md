@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on my own Website
 
-- 🤔 I’m looking for help with CSS
-
-- 💬 Ask me about **Tipps**
+- 🤔 I’m looking for help with React, PHP
 
 - 📫 Reach me at **robin_ahn@icloud.com**
 
