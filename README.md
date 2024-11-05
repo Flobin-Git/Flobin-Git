@@ -23,8 +23,13 @@
 <br>
 <h2>Connect with me:</h2>
 <p align="left">
-<a href="https://codesandbox.com/flobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="flobin" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/c/flobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flobin" height="30" width="40" /></a>
 <a href="https://instagram.com/flobin_design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flobin_design" height="30" width="40" /></a>
+<a href="https://twitter.com/flobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flobin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/flobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flobin" height="30" width="40" /></a>
+<a href="https://discord.gg/flobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="flobin" height="30" width="40" /></a>
+<a href="https://codepen.io/flobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="flobin" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="left">Languages and Tools:</h2>
