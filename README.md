@@ -7,13 +7,13 @@
 <p>Hi, my name is Robin 👋, I'm 19 years old, and I'm from Belgium 🇧🇪. <br> I'm a Frontend web developer at giftGruen located in Aachen, Germany 💻. <br> In my free time, I enjoy going to the gym 🏋️, watching series 🎬, or hanging out with friends 👥. <br> I also have a passion for designing websites 🌐 and creating graphics 🎨. <br> I decided to become a web developer because I love working with people and helping them reach their goals 🤝✨.</p>
 <br>
 
-- 🧑‍💻 I’m currently working on [my new Website](robin-ahn.de)
+- 🧑‍💻 I’m currently working on [my new Website](https://robin-ahn.de)
 
 - 📚 I’m currently learning **Kubernetes**
 
 - 🤝 I’m looking for help with **Docker, Kubernetes,...**
 
-- 📊 All of my projects are available at [github.com/Flobin-Git](github.com/Flobin-Git)
+- 📊 All of my projects are available at [github.com/Flobin-Git](https://github.com/Flobin-Git)
 
 - 💬 Ask me about **react, tailwind, web things**
 
