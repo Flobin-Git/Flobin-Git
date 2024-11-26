@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-<p>Hi, my name is Robin 👋, I'm 19 years old, and I'm from Belgium 🇧🇪. <br> I'm a Frontend web developer at giftGruen located in Aachen, Germany 💻. <br> In my free time, I enjoy going to the gym 🏋️, watching series 🎬, or hanging out with friends 👥. <br> I also have a passion for designing websites 🌐 and creating graphics 🎨. <br> I decided to become a web developer because I love working with people and helping them reach their goals 🤝✨.</p>
+<p>Hi, my name is Robin 👋, I'm 20 years old, and I'm from Belgium 🇧🇪. <br> I'm a Frontend web developer at giftGruen located in Aachen, Germany 💻. <br> In my free time, I enjoy going to the gym 🏋️, watching series 🎬, or hanging out with friends 👥. <br> I also have a passion for designing websites 🌐 and creating graphics 🎨. <br> I decided to become a web developer because I love working with people and helping them reach their goals 🤝✨.</p>
 <br>
 
 - 🧑‍💻 I’m currently working on [my new Website](https://robin-ahn.de)
