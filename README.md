@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, tailwind, web things**
 
-- 📫 You can reach me at **robin_ahn@icloud.com**
+- 📫 You can reach me at **robin.ahn.dev@gmail.com**
 
 - 🐱 Fun fact **I like cats and coffe :)**
 
